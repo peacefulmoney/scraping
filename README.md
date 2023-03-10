@@ -2,7 +2,7 @@
 
 ### Programming languages to use:
 
-Python 3.10.11
+Python 3.10.6
 
 ### Goal:
 
