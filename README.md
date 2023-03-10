@@ -18,3 +18,11 @@ Get valid words from top grammar sites (one per language) for 5 languages
 - Arabic | https://www.almaany.com
 
 
+#### Pending:
+
+ - Create venv
+ - Install dependencies
+ - Create a requirements.txt file
+ - Create bespoke spider sample
+ - Set .env + pipelines + middlewares
+ - Set repo instructions
