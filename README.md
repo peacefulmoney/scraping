@@ -13,7 +13,7 @@ Get valid words from top grammar sites (one per language) for 5 languages
 
 - English | https://www.oed.com
 - Japanese | https://www.sanseido.biz/ <!-- /User/Dic/Index.aspx -->
-- Spanish | https://www.rae.es
+- Spanish | https://www.listasdepalabras.es
 - French | https://www.academie-francaise.fr
 - Arabic | https://www.almaany.com
 
