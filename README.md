@@ -2,7 +2,7 @@
 
 ### Programming languages to use:
 
-Python 3.10.11
+Python 3.10.6
 
 ### Goal:
 
@@ -20,9 +20,11 @@ Get valid words from top grammar sites (one per language) for 5 languages
 
 #### Pending:
 
- - Create venv
+ - Create venv [x]
  - Install dependencies
  - Create a requirements.txt file
  - Create bespoke spider sample
  - Set .env + pipelines + middlewares
  - Set repo instructions
+ - Link shortcut to this
+ - Make sure branch displays on bash's prompt
